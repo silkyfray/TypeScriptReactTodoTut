@@ -3,3 +3,5 @@
 ################################################################################
 
 /TypeScriptReactTODO/node_modules
+/TypeScriptReactTODO/bin
+/TypeScriptReactTODO/obj/Debug
